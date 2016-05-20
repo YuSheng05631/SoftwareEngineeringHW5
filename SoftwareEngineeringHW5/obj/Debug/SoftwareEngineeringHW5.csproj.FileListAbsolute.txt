@@ -1,0 +1,6 @@
+C:\Users\test\Desktop\專題\C#\SoftwareEngineeringHW5\SoftwareEngineeringHW5\bin\Debug\SoftwareEngineeringHW5.exe.config
+C:\Users\test\Desktop\專題\C#\SoftwareEngineeringHW5\SoftwareEngineeringHW5\bin\Debug\SoftwareEngineeringHW5.exe
+C:\Users\test\Desktop\專題\C#\SoftwareEngineeringHW5\SoftwareEngineeringHW5\bin\Debug\SoftwareEngineeringHW5.pdb
+C:\Users\test\Desktop\專題\C#\SoftwareEngineeringHW5\SoftwareEngineeringHW5\obj\Debug\SoftwareEngineeringHW5.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\專題\C#\SoftwareEngineeringHW5\SoftwareEngineeringHW5\obj\Debug\SoftwareEngineeringHW5.exe
+C:\Users\test\Desktop\專題\C#\SoftwareEngineeringHW5\SoftwareEngineeringHW5\obj\Debug\SoftwareEngineeringHW5.pdb
